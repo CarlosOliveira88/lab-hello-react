@@ -1,0 +1,39 @@
+.img01 {
+    width: 60px;
+    margin: 10px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.primero-div {
+    background-color: rgb(40 40 40);
+    padding: 20px;
+}
+
+.segundo-div {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 60px 0px;
+}
+
+.image {
+    width: 90px;
+}
+
+.text {
+    color: aliceblue;
+    text-align-last: start;
+    font-size: 30px;
+    margin-left: 62px;
+}
+
+.btn {
+    font-size: 30px;
+}
+
+h1 {
+    margin: 0;
+}
